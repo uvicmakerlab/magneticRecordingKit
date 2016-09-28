@@ -36,15 +36,15 @@ The first known reference to magnetic recording was in an article published by O
 
 This folder contains images or files of the key components for this experiment. The list below provides details concerning each of these parts. 
 
-**Transmitter and Receiver**: For the transmitter and receiver we used disassembled parts from a 1901 Kellogg phone. Although Poulsen conducted his experiment as early as 1898, records suggest telephone parts were standardized from the 1890’s to the 1920’s, so any phone parts from that time period should be appropriate for this experiment. Images of the phone parts we used for this experiment are included in the parts folder.
+**Transmitter and Receiver:** For the transmitter and receiver we used disassembled parts from a 1901 Kellogg phone. Although Poulsen conducted his experiment as early as 1898, records suggest telephone parts were standardized from the 1890’s to the 1920’s, so any phone parts from that time period should be appropriate for this experiment. Images of the phone parts we used for this experiment are included in the parts folder.
 
-**Piano Wire: **Piano wire was provided by [Alison Piano](http://www.allisonpiano.bc.ca/). We used turnbuckles on each end, which allowed us to tighten the wire after it was mounted. We found a higher gauge to be more effective for this experiment.
+**Piano Wire:** Piano wire was provided by [Alison Piano](http://www.allisonpiano.bc.ca/). We used turnbuckles on each end, which allowed us to tighten the wire after it was mounted. We found a higher gauge to be more effective for this experiment.
 
-**Electromagnet: **We built our electromagnets by wrapping [soft iron rods](http://www.xump.com/science/Soft-Iron-Rod.cfm) in copper wire. 
+**Electromagnet:** We built our electromagnets by wrapping [soft iron rods](http://www.xump.com/science/Soft-Iron-Rod.cfm) in copper wire. 
 
-**Trolley: **We cut the parts for our trolley using an Epilogue Helix Laser Cutter. There are three parts for the trolley in the parts folder, the wheels, interior parts and exterior parts. We also purchased nuts and bolts for mounting the completed trolley onto the wire. 
+**Trolley:** We cut the parts for our trolley using an Epilogue Helix Laser Cutter. There are three parts for the trolley in the parts folder, the wheels, interior parts and exterior parts. We also purchased nuts and bolts for mounting the completed trolley onto the wire. 
 
-**Iron Filing Box: **You can test which sections of the wire were magnetized by holding iron filings against the wire. We built a box to hold the filings. The box had grooves on either end that would allow the iron filings to be held directly against the wire. The plans for laser cutting this box are included in the parts folder.
+**Iron Filing Box:** You can test which sections of the wire were magnetized by holding iron filings against the wire. We built a box to hold the filings. The box had grooves on either end that would allow the iron filings to be held directly against the wire. The plans for laser cutting this box are included in the parts folder.
 
 **Magnet Case:** You can erase any magnetic trace by sliding a permanent magnet along the wire. We inserted two permanent magnets in a laser cut case that users could hold against the wire. The plans for the laser cut case are included in the parts folder. 
 
