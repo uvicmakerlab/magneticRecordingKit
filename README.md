@@ -74,7 +74,7 @@ The Early Recording Experiment is made of wood, paper, ink, acrylic, wire, magne
 
 [furtherReading.txt](furtherReading.txt) contains a list of materials, including primary sources, informing the history at work in the Early Recording Experiment. The list also references publications that shaped the MLab's methodology for media history and rapid prototyping.
 
-## Process Documentation
+## <a name="process"></a>Process Documentation
 
 For additional process documentation pertaining to the Early Recording Experiment, see the MLab's website at [http://maker.uvic.ca](http://maker.uvic.ca/kch/). 
 
